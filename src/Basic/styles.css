@@ -1,0 +1,71 @@
+.demo__section {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  height: 15vh;
+  padding: 20px;
+}
+
+.demo__section h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.demo__section h2 {
+  font-size: 3.6rem;
+  margin: 0;
+  text-align: center;
+}
+
+.demo__hero {
+  align-items: center;
+  height: 100vh;
+  color: rgb(22, 13, 148);
+}
+
+.demo__hero button:first-of-type {
+  background-color: #fff;
+  border-radius: 2rem;
+  font-size: 3rem;
+  font-weight: bold;
+  margin-top: 2rem;
+  padding: 1.5rem 3rem;
+}
+
+.demo__hero {
+  text-align: center;
+  width: 100%;
+}
+
+.demo__projects {
+  background-color: #b96100;
+  color: #fff;
+  height: 11vh !important;
+}
+
+.demo__how-it-works {
+  background-color: #33b900;
+  color: #fff;
+  height: 11vh !important;
+}
+
+.demo__about {
+  background-color: #00b9ab;
+  color: #fff;
+  height: 11vh !important;
+}
+
+.safety {
+  padding-bottom: 70px;
+}
+
+.text-content {
+  text-align: center;
+  padding: 1%;
+}
+
+.welcome-card {
+  background-color: white;
+  height: 6vh;
+  border-radius: 2rem;
+}
